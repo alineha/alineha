@@ -1,7 +1,12 @@
 <div align="center">
-    <img src=https://spotify-github-profile.vercel.app/api/view?uid=14matsu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f alt=spotify/> 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=6096F9&center=true&vCenter=true&repeat=false&width=435&lines=Aline+Hommerding+Amorim" alt="Typing SVG" /></a>
 </div>
-  
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&color=6096F9&center=true&vCenter=true&width=435&lines=Full-stack+developer;6%2B+years+of+coding+experience;Soon-to-be+Bachelor+of+CompSci;Always+learning" alt="Typing SVG" /></a>
+</div>
+
+
 - 🌐 Job: <img src="https://img.shields.io/badge/Software%20Engineer%201-blue?style=for-the-badge&logo=dell&logoColor=white" alt="Software Engineer 1 at Dell" height="20em" align="center"/>
 - 💠 Currently working on [an implementation of the G-PBFT algorithm for Fabric](https://github.com/alineha/fabric)
 - 🔎 Currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="10em" align="center" alt="Go" title="Go"/>
@@ -19,5 +24,7 @@
       </a>  
 </div> 
 
-
+<div align="center">
+    <img src=https://spotify-github-profile.vercel.app/api/view?uid=14matsu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f alt=spotify/> 
+</div>
   
