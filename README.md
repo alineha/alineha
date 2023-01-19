@@ -44,3 +44,6 @@
 </picture>
     </div>
   
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=6096F9&center=true&vCenter=true&repeat=false&width=550&height=45&lines=Can you guess my favourite color?&size=10" alt="Typing SVG" /></a>
+</div>
