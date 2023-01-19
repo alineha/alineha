@@ -30,10 +30,17 @@
 - 🌊 Pronouns: they/them
  
 
-
+<!--
 <div align="center">
     <img src=https://spotify-github-profile.vercel.app/api/view?uid=14matsu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color_cover=true&bar_color=53b14f alt=spotify/> 
 </div>
+-->
 
-<img src="https://github.com/alineha/alineha/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alineha/alineha/blob/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/alineha/alineha/blob/output/snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+    </div>
   
