@@ -25,7 +25,7 @@
 <br/>
 
 - 🌐 Job: <img src="https://img.shields.io/badge/Junior%20Software%20Engineer-blue?style=for-the-badge&logo=dell&logoColor=white" alt="Software Engineer 1 at Dell" height="20em" align="center"/>
-- 💠 Currently working on [an implementation of the G-PBFT algorithm for Fabric](https://github.com/alineha/fabric)
+- 💠 Currently working on [an implementation of the G-PBFT algorithm in Go](https://github.com/alineha/consensus-GPBFT) to be integrated into [Fabric](https://github.com/alineha/fabric)
 - 🔎 Currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" height="10em" align="center" alt="Go" title="Go"/>
 - 🌊 Pronouns: they/them
 <!--
