@@ -17,8 +17,8 @@
         <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/6096F9" />
       </a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://twitter.com/alwaelen" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/twitter/6096F9" />
+      <a href="https://tech.lgbt/@domino" target="_blank">
+        <img height="32" width="32" src="https://cdn.simpleicons.org/mastodon/6096F9" />
       </a>  
 </p> 
 
