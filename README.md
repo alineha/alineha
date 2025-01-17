@@ -25,8 +25,8 @@
 <br/>
 
 - 🌐 Job: <img src="https://img.shields.io/badge/Junior%20Software%20Engineer-blue?style=for-the-badge&logo=dell&logoColor=white" alt="Software Engineer 1 at Dell" height="20em" align="center"/>
-- 💠 Currently working on my thesis
-- 🔎 Currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="20em" align="center" alt="Go" title="Godot"/>
+- 💠 Currently working on [Mistrian Curator](https://github.com/alineha/MistrianCurator)
+- 🔎 Currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/800px-Svelte_Logo.svg.png" height="20em" align="center" alt="Go" title="Svelte"/>
 - 🌊 Pronouns: they/them
 <!--
 - <details> <summary>&#8287;&#8287;&#8287;</summary>
