@@ -9,12 +9,8 @@
 <br/>
 
 <p align="center">
-      <a href="https://github.com/alineha" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/github/6096F9" />
-      </a>
-        &#8287;&#8287;&#8287;&#8287;&#8287;
       <a href="https://linkedin.com/in/alinehamorim" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/6096F9" />
+       Linkedin
       </a>
 </p> 
 
