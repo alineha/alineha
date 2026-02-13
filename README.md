@@ -10,7 +10,7 @@
 
 <p align="center">
       <a href="https://linkedin.com/in/alinehamorim" target="_blank">
-       Linkedin
+        <img height="32" width="32" src="https://www.rawpixel.com/search/linkedin%20icon" />
       </a>
 </p> 
 
