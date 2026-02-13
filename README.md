@@ -16,10 +16,6 @@
       <a href="https://linkedin.com/in/alinehamorim" target="_blank">
         <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/6096F9" />
       </a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://tech.lgbt/@domino" target="_blank">
-        <img height="32" width="32" src="https://cdn.simpleicons.org/mastodon/6096F9" />
-      </a>  
 </p> 
 
 <br/>
@@ -88,5 +84,5 @@
     </div>
   
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=6096F9&center=true&vCenter=true&repeat=false&width=550&height=45&lines=Can you guess my favourite color?&size=10" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&color=6096F9&center=true&vCenter=true&repeat=false&width=550&height=45&lines=can+you+guess+my+favourite+color?&size=10" alt="Typing SVG" /></a>
 </div>
