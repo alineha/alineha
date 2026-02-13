@@ -6,8 +6,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=200&color=6096F9&center=true&vCenter=true&width=550&height=45&lines=Security-focused+developer;Bachelor+of+Computer+Science;Always+learning&size=22" alt="Typing SVG" /></a>
 </div>
 
-<br/>
-
 <!--
 <p align="center">
       <a href="https://linkedin.com/in/alinehamorim" target="_blank">
